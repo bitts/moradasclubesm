@@ -8,3 +8,5 @@ Página de apresentação e exibição estrutural do Condomínio Moradas Clube, 
 - Exibi localização dos postes e luminárias
 
 Exemplo: https://mbitts.com/mc/
+
+![exemplo](https://github.com/bitts/moradasclubesm/blob/main/Screenshot_20230621_135800_Chrome.jpg)
