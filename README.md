@@ -10,3 +10,5 @@ Página de apresentação e exibição estrutural do Condomínio Moradas Clube, 
 Exemplo: https://mbitts.com/mc/
 
 ![exemplo](https://github.com/bitts/moradasclubesm/blob/main/Screenshot_20230621_135800_Chrome.jpg)
+
+![exemplo2](https://raw.githubusercontent.com/bitts/moradasclubesm/main/Screenshot_20230621_140539_Chrome.jpg)
