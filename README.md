@@ -7,7 +7,7 @@ Página de apresentação e exibição estrutural do Condomínio Moradas Clube, 
 - Sistema localiza casa e exibi sua disposição no mapa
 - Exibi localização dos postes e luminárias
 
-Exemplo: https://mbitts.com/mc/
+Exemplo: https://mbitts.com/old/mc/
 
 ![exemplo](https://github.com/bitts/moradasclubesm/blob/main/Screenshot_20230621_135800_Chrome.jpg)
 
